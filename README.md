@@ -1,6 +1,6 @@
 ﻿# Optimization-Techniques-2021
 
-This repository contains files from the three projects of the subject Optimization Techniques of Aristotle University of Thessaloniki. The projects were implemented using Matlab.
+This repository contains files from the three projects of the course Optimization Techniques of Aristotle University of Thessaloniki. The projects were implemented using Matlab.
 
 # 1st Assignment
 Finding the minimum of three one-dimensional convex functions using:
